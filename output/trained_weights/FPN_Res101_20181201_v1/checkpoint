@@ -1,0 +1,12 @@
+model_checkpoint_path: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_170003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_135003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_140003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_145003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_150003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_155003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_160003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_165003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_170003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_175003model.ckpt"
+all_model_checkpoint_paths: "/home/pinink/Desktop/FPN_Tensorflow/output/trained_weights/FPN_Res101_20181201_v1/voc_205003model.ckpt"
+
